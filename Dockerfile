@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER 9CV9 Pte.Ltd - Developer
+MAINTAINER Mext - Dev
 
 ENV PYTHONUNBUFFERED 1
 
